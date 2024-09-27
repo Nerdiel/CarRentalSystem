@@ -1,6 +1,0 @@
-NAME#SURNAME#EMAIL#PHONE#ADDRESS
-John#Doe#john.doe@example.com#5551234567#123 Elm Street
-Jane#Smith#jane.smith@example.com#5559876543#456 Oak Avenue
-Michael#Johnson#michael.johnson@example.com#5552345678#789 Pine Road
-Emily#Davis#emily.davis@example.com#5558765432#321 Maple Lane
-David#Brown#david.brown@example.com#5553456789#654 Birch Boulevard
