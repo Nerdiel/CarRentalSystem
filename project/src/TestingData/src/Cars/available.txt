@@ -1,0 +1,6 @@
+MAKE#MODEL#YEAR#COLOR#LICENCE_PLATE#MOTORIZATION#GEARBOX#SEATS#COST_PER_HOUR
+Toyota#Corolla#2021#Blue#ABC123#Hybrid#Automatic#5#15
+Honda#Civic#2020#Red#DEF456#Gasoline#Manual#5#12
+Ford#Focus#2019#Black#GHI789#Diesel#Automatic#5#14
+Chevrolet#Malibu#2018#White#JKL012#Gasoline#Automatic#5#13
+Nissan#Altima#2022#Silver#MNO345#Gasoline#Automatic#5#16

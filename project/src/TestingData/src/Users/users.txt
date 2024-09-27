@@ -1,0 +1,7 @@
+USERNAME#PASSWORD#ADMIN
+admin#1234#1
+johndoe#password123#0
+janesmith#password456#0
+admin2#adminpass#1
+emilyd#emilypass#0
+
